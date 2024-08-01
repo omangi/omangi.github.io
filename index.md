@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Fala galera! Bem vindo ao blog do Mangi :bowtie: 👋🤓
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Minha ideia é compartilhar coisas do dia dia de tecnologia, coisas técnicas, coisas de carrerias e outras besteiras que eu vejo por aí. Espero que gostem.
