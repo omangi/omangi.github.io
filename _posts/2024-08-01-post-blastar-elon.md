@@ -1,7 +1,7 @@
 ## Blastar By Elon Musk
 
 Você já ouviu falar do _Blastar_ ? _Blastar_ foi um jogo criado por Elon Musk em 1984. Teve seu código fonte publicado em uma revista da época e Elon ganhou $500 USD por isso.
-O jogo pode ser jogado via web hoje nesse site https://blastar-1984.appspot.com/
+O jogo pode ser jogado via web hoje nesse [site](https://blastar-1984.appspot.com).
 
 ---
 
